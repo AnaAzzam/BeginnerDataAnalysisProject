@@ -1,6 +1,4 @@
-# BeginnerDataAnalysisProject
-
-# 🎬 Beginner Data Analysis Projects
+#  Beginner Data Analysis Projects
 
 This is a **beginner-friendly Python data analysis project**  
 The project walks through the complete process of:
